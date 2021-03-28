@@ -1,5 +1,1 @@
-Test git 
-Hola
-git add 1
-git add 2
-
+Hola mañana debes hacer todo lo posible por lograr todo, ey si puedes
